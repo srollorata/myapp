@@ -1,0 +1,82 @@
+{
+  "pets": [
+    {
+      "name": "John Doe",
+      "age": "2",
+      "breed": "Aspin",
+      "gender": "male",
+      "owner": "Mystery",
+      "id": 1
+    },
+    {
+      "name": "Michael Doe",
+      "age": "1",
+      "breed": "Golden Retriever",
+      "gender": "male",
+      "owner": "Mystery",
+      "id": 2
+    },
+    {
+      "name": "Alex DOe",
+      "age": "8",
+      "breed": "Bulldog",
+      "gender": "male",
+      "owner": "Mystery",
+      "id": 3
+    },
+    {
+      "name": "Jane",
+      "age": "2",
+      "breed": "Aspin",
+      "gender": "female",
+      "owner": "Mystery",
+      "id": 4
+    },
+    {
+      "name": "Selwyn",
+      "age": "1",
+      "breed": "human",
+      "gender": "male",
+      "owner": "Me",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "title": "Game of Thrones",
+      "author": "John Doe",
+      "year": 2020,
+      "genre": "Mystery",
+      "sold": 5000,
+      "currency": "usd",
+      "id": 6
+    },
+    {
+      "title": "Game of Thrones II",
+      "author": "John Doe",
+      "year": 2021,
+      "genre": "Mystery",
+      "sold": 10000,
+      "currency": "usd",
+      "id": 7
+    },
+    {
+      "title": "Game of Thrones III",
+      "author": "John Doe",
+      "year": 2022,
+      "genre": "Mystery",
+      "sold": 15000,
+      "currency": "usd",
+      "id": 8
+    },
+    {
+      "title": "Game of Thrones IV",
+      "author": "John Doe",
+      "year": 2023,
+      "genre": "Mystery",
+      "sold": 20000,
+      "currency": "usd",
+      "id": 9
+    }
+  ]
+}

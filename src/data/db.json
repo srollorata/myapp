@@ -17,14 +17,6 @@
       "id": 2
     },
     {
-      "name": "Alex DOe",
-      "age": "8",
-      "breed": "Bulldog",
-      "gender": "male",
-      "owner": "Mystery",
-      "id": 3
-    },
-    {
       "name": "Jane",
       "age": "2",
       "breed": "Aspin",
@@ -39,6 +31,22 @@
       "gender": "male",
       "owner": "Me",
       "id": 5
+    },
+    {
+      "name": "Haha",
+      "age": "2",
+      "breed": "corgi",
+      "gender": "female",
+      "owner": "me",
+      "id": 6
+    },
+    {
+      "name": "Cool",
+      "age": "1",
+      "breed": "Aspin",
+      "gender": "female",
+      "owner": "Mystery",
+      "id": 7
     }
   ],
   "books": [
